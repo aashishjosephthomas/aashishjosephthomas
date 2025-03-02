@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aashish Joseph Thomas 👋  
 
-<!--
-**aashishjosephthomas/aashishjosephthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Cloud Engineer | AWS Solutions Architect (In Progress) | DevOps & Infrastructure Enthusiast**  
 
-Here are some ideas to get you started:
+💡 Passionate about **AWS, Cloud Computing, and Infrastructure Automation**. Currently building hands-on projects in **AWS, Terraform, and DevOps tools** to transition into Cloud Engineering.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **What I’m working on:**  
+- AWS Projects (EC2, S3, IAM, RDS, Auto Scaling, Lambda)  
+- Terraform & Infrastructure as Code (Learning)  
+- Automating cloud deployments  
+
+📚 **What I’m learning:**  
+- AWS Solutions Architect Associate (Stephane Maarek’s Course)  
+- Kubernetes & Containerization (Upcoming)  
+
+📂 **My AWS Hands-on Projects:**  
+✔ [EC2 Auto Scaling & Load Balancer](#) (Coming Soon)  
+✔ [S3 Website Hosting with CloudFront](#) (Coming Soon)  
+✔ [Terraform AWS Infrastructure Deployment](#) (Coming Soon)  
+
+📫 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/ajosephthomas)  
